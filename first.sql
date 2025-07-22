@@ -1,2 +1,2 @@
 --This is a sample gitfile having SQL Query
-SELECT * FROM SampleTable;
+--SELECT * FROM SampleTable;
